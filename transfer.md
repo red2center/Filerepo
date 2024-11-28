@@ -1,14 +1,1 @@
 # Aktif Kullanıcı Listesi
-
-
-
-
-
-
-
-
-
-
-
-
-- Bengi
