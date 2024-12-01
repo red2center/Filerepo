@@ -8,5 +8,10 @@
         "username": "asd",
         "login_time": "2024-12-01T19:36:13.737861",
         "status": "online"
+    },
+    {
+        "username": "red",
+        "login_time": "2024-12-01T19:36:30.565037",
+        "status": "online"
     }
 ]
